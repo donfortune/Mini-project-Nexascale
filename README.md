@@ -62,5 +62,8 @@ This project guides you to build a **Jenkins-based CI pipeline** to analyze the 
 ## 🕒 Deadline
 
 📅 **Submit by:** _[24/05/2025]_
+**Submission Link:** _[https://docs.google.com/forms/d/e/1FAIpQLSepgAS9Eh-JHA877PRwjTlQrKo60iFETybxwGAdKRNvOMTQ8g/viewform?usp=sharing]_
+
+
 
 ---
