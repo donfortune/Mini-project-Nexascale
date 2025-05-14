@@ -16,7 +16,7 @@ This project guides you to build a **Jenkins-based CI pipeline** to analyze the 
    - 🔎 [NJSSCAN](https://github.com/ajinabraham/njsscan) – scan Node.js dependencies
 4. **Generate reports** from each tool (preferably in JSON or SARIF format).
 5. **Programmatically upload scan results to DefectDojo** via its REST API.
-6. (Optional) Configure **Docker containers** inside Jenkins for environment isolation.
+
 
 ---
 
@@ -36,17 +36,13 @@ This project guides you to build a **Jenkins-based CI pipeline** to analyze the 
 - ✅ GitHub repo or project zip file
 - ✅ Jenkinsfile with all scan stages
 - ✅ Sample JSON/SARIF reports from each tool
-- ✅ Script to upload to DefectDojo (e.g. Python + `requests`)
+- ✅ Script to upload to DefectDojo 
 - ✅ Screenshots of Jenkins pipeline stages
-- ✅ (Bonus) Alert or notification of success
+
 
 ---
 
-## 🧪 Bonus Challenges (Optional)
-
-- Trigger scans **only** on Pull Requests or Pushes to main.
-- Archive the scan reports in Jenkins after each run.
-- Add **Slack/Email/Webhook** notifications after successful DefectDojo upload.
+.
 
 ---
 
@@ -65,19 +61,6 @@ This project guides you to build a **Jenkins-based CI pipeline** to analyze the 
 
 ## 🕒 Deadline
 
-📅 **Submit by:** _[Insert your deadline here]_
+📅 **Submit by:** _[24/05/2025]_
 
 ---
-
-## 💬 Need Help?
-
-Reach out in the group if you need:
-- A Jenkinsfile starter template
-- A sample DefectDojo upload script
-- Help running Jenkins locally or in Docker
-
----
-
-## 🚀 Let’s Build Secure Pipelines!
-
-Happy Hacking! 🔐💻🚀
